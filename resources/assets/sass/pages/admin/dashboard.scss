@@ -1,0 +1,28 @@
+.dashboard {
+    &-category {
+        width: 80%;
+        padding-top: 25px;
+        display: inline-flex;
+        flex-wrap: wrap;
+
+        &_detail-item {
+            width: 217px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 0px 8px 0px;
+            margin-bottom: 10px;
+            &_redirect-playbook {
+                li::marker {
+                    color: blue;
+                }
+            }
+        }
+    }
+    &-recent_work {
+        width: 80%;
+        margin-top: 30px;
+        border-radius: 10px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 0px 8px 0px;
+
+    }
+}

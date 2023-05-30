@@ -1,0 +1,26 @@
+@import "../../app";
+
+body {
+    background: #F8F8F8;
+}
+
+.active {
+    background: rgba(41, 86, 217, 0.1);
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: #2956D9;
+
+    span {
+        color: #2956D9 !important;
+    }
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 24px;
+}
+
+.chat {
+    width: 136px;
+}
