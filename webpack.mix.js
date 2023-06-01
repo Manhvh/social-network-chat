@@ -107,7 +107,7 @@ mix.options({
  */
 
 // Remove old version
-removeAllFile(__dirname + '/' + imagesWebPath);
+// removeAllFile(__dirname + '/' + imagesWebPath);
 removeAllFile(__dirname + '/public/' + stylesWebPath);
 removeAllFile(__dirname + '/public/' + scriptsWebPath);
 removeAllFile(__dirname + '/' + webfontsPath);
@@ -116,8 +116,8 @@ mix.setPublicPath('public')
     .vue()
     .sass(resourcePath + 'sass/app.scss', stylesWebPath)
     .js(resourcePath + 'src/app.js', scriptsWebPath)
-    .js('node_modules/bootstrap', scriptsWebPath)
-    .copy(resourcePath + 'images', imagesWebPath);
+    .js('node_modules/bootstrap', scriptsWebPath);
+//     .copy(resourcePath + 'images', imagesWebPath);
 
 // CSS for single page use
 (glob.sync(resourcePath + 'sass/pages/!(_)*.scss') || []).forEach(file => {
