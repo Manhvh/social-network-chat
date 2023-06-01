@@ -10,8 +10,9 @@
     }],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://yourproductionurl.com",
+        "APP_KEY": "base64:42GyLy4kMqzg0MvBkDbX6psscE5h8StLIniRR5YkMlo=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
