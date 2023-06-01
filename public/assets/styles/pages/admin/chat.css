@@ -1,0 +1,15 @@
+.chat-active {
+  background: rgba(41, 86, 217, 0.1);
+  border-left-width: 5px;
+  border-left-style: solid;
+  border-left-color: #2956D9;
+}
+.chat-active span {
+  color: #2956D9 !important;
+}
+
+.header {
+  display: none;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXNzZXRzL3N0eWxlcy9wYWdlcy9hZG1pbi9jaGF0LmNzcyIsIm1hcHBpbmdzIjoiQUFBQTtFQUNJO0VBQ0E7RUFDQTtFQUNBO0FBQ0o7QUFDSTtFQUNJO0FBQ1I7O0FBRUE7RUFDSTtBQUNKLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvYXNzZXRzL3Nhc3MvcGFnZXMvYWRtaW4vY2hhdC5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIi5jaGF0LWFjdGl2ZSB7XG4gICAgYmFja2dyb3VuZDogcmdiYSg0MSwgODYsIDIxNywgMC4xKTtcbiAgICBib3JkZXItbGVmdC13aWR0aDogNXB4O1xuICAgIGJvcmRlci1sZWZ0LXN0eWxlOiBzb2xpZDtcbiAgICBib3JkZXItbGVmdC1jb2xvcjogIzI5NTZEOTtcblxuICAgIHNwYW4ge1xuICAgICAgICBjb2xvcjogIzI5NTZEOSAhaW1wb3J0YW50O1xuICAgIH1cbn1cbi5oZWFkZXIge1xuICAgIGRpc3BsYXk6IG5vbmU7XG59XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/

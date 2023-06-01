@@ -1,0 +1,13 @@
+.chat-active {
+    background: rgba(41, 86, 217, 0.1);
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: #2956D9;
+
+    span {
+        color: #2956D9 !important;
+    }
+}
+.header {
+    display: none;
+}

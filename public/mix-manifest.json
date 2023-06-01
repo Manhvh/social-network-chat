@@ -3,6 +3,7 @@
     "/assets/scripts/bootstrap.js": "/assets/scripts/bootstrap.js",
     "/assets/styles/pages/admin/index.css": "/assets/styles/pages/admin/index.css",
     "/assets/styles/pages/admin/dashboard.css": "/assets/styles/pages/admin/dashboard.css",
+    "/assets/styles/pages/admin/chat.css": "/assets/styles/pages/admin/chat.css",
     "/assets/styles/app.css": "/assets/styles/app.css",
     "/assets/scripts/jquery.js": "/assets/scripts/jquery.js",
     "/assets/scripts/fontawesome/all.js": "/assets/scripts/fontawesome/all.js",
